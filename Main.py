@@ -37,7 +37,7 @@ class FaceRecognitionApp:
         self.check_servo_timeout()  # Initial call
 
     def connect(self):
-        uri = "mongodb+srv://rkbackenddb:rkbackenddb@cluster0.chvkbx4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+        uri = "<your MongoDB url>"
         # Set the Stable API version when creating a new client
         client = MongoClient(uri, server_api=ServerApi('1'))
 
