@@ -16,7 +16,7 @@ import shutil
 # name = 'darshan' #replace with your name
 
 def connect():
-    uri = "mongodb+srv://rkbackenddb:rkbackenddb@cluster0.chvkbx4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    uri = "<Your MongoDB url>"
     # Set the Stable API version when creating a new client
     client = MongoClient(uri, server_api=ServerApi('1'))
 
