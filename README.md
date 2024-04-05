@@ -1,4 +1,4 @@
-# Smart Dustbin (Face Recognition and Reward System)
+# Smart Dustbin (Face Recognition and Reward System) 
 ## About 
 This project has working code for face recognition registration and IoT based recognition and lid opening for smart dustbin project.
 
