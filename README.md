@@ -28,12 +28,20 @@ To run use the command:
 (venv)> python Main.py 
 ```
 
+
 ## 🚀 About Me
-I'm a programming enthusiast, always curious to learn new things and try new technologies... I m currently pursuing my Bachelor in Technology in Information Technology. My interests are in full stack and machine learning.
+
+I'm a programming enthusiast, always curious to learn new things and try new technologies.. My interests are in full stack Dev and defensive security. 
 
 ## 🛠 Skills
-Python, Java, Javascript, HTML, CSS...
+
+- Programming Languages: Python, Java, C++
+- Frameworks: Django, React
+- Web Technologies: HTML, CSS, JS
+- Databases: MySQL, Oracle
+- Soft skills: Healthy communication, Smart Worker, quick learner, problem solver
+- OS: Windows, Linux, Mac
 
 ## 🔗 Links
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/this-darshiii/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/this_darshiii)
