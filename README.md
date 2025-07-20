@@ -6,7 +6,12 @@ This project has working code for face recognition registration and IoT based re
 - User Registration: User can register their faces and set up their passwords and usernames.
 - Face Recognition: Face recognitions -- recognizes the face and opens the lid of the bin and also assigns reward points to user's account.
 
-## 💻 Technologies used
+## ⚙️ Technologies Used
+- Python
+- Arduino IDE (python)
+- YOLO (faceRecognition)
+
+## 💻 Project Setup
 This project uses python programming language.
 Create a virtual environment:
 ```
